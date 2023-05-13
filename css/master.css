@@ -32,13 +32,14 @@ body {
   position: absolute;
   right: -30px;
   top: 100px;
-  background-color: #FFF;
+  background-color: none;
   text-align: center;
   cursor: pointer;
 }
 .settings-box .toggle-settings .fa-gear {
   width: 30px;
   padding: 8px 0;
+  color: var(--main-color);
 }
 .settings-box .option-box {
   padding: 10px;
