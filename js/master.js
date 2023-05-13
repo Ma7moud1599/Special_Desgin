@@ -145,7 +145,7 @@ function randomizeImgs() {
       // Change Background Image Url 
       landingPage.style.backgroundImage = 'url("imgs/' + imgsArray[randomNumber] + '")';
     
-    }, 10000);
+    }, 5000);
 
   }
 
